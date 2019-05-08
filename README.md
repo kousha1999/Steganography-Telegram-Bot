@@ -1,6 +1,6 @@
 # Steganography Telegram Bot
 A Telegram Bot for who loves SteganoGraphy and CryptoGraphy
-<h5>Specially Thanks:</h5>
+<h5>Specially Thanks Collaborators:</h5>
 <ul><li>https://github.com/TroubleMakeer</li><li>https://github.com/Nvsty-py</li></ul>
 <h1>Requirements:</h1>
 <ol>
