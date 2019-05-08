@@ -1,6 +1,7 @@
-# SteganographyTelegramBot
+# Steganography Telegram Bot
 A Telegram Bot for who loves SteganoGraphy and CryptoGraphy
-
+<h5>Specially Thanks:</h5>
+<ul><li>https://github.com/TroubleMakeer</li><li>https://github.com/Nvsty-py</li></ul>
 <h1>Requirements:</h1>
 <ol>
 <li>pip3 install emoji pyaes stepic python-telegram-bot python-telegram-bot[socks]</li>
