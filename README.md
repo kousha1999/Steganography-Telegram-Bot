@@ -4,14 +4,14 @@ A Telegram Bot for who loves SteganoGraphy and CryptoGraphy
 <ul><li>https://github.com/TroubleMakeer</li><li>https://github.com/Nvsty-py</li></ul>
 <h1>Requirements:</h1>
 <ol>
-<li>pip3 install emoji pyaes stepic python-telegram-bot python-telegram-bot[socks]</li>
+<li>pip3 install emoji pyaes stepic python-telegram-bot python-telegram-bot[socks] --user</li>
 <li>Set your telegramBot Token > line 20</li>
 </ol>
 <h2>Usage:</h2>
 <ul>
 <li>Open a terminal and use below commands</li>
 <li>git clone https://github.com/kousha1999/SteganographyTelegramBot.git</li>
-<li>cd SteganographyTelegramBot</li>
+<li>cd Steganography-Telegram-Bot</li>
 <li>python3 main.py</li>
 </ul>
 
